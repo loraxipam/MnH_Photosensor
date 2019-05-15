@@ -1,0 +1,8 @@
+MnH_Photosensor	KEYWORD1
+readSensor	KEYWORD2
+readRawSensor	KEYWORD2
+maxRaw		KEYWORD2
+minRaw		KEYWORD2
+currentAvg	KEYWORD2
+currentMean	KEYWORD2
+SMOOTHERSIZE	LITERAL1
